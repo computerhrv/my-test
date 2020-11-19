@@ -1,4 +1,4 @@
-baseURL = "http://my-test-ea7f18.netlify.com"
+baseURL = "https://clever-brahmagupta-5add65.netlify.app/"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
